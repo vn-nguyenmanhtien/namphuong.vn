@@ -44,9 +44,6 @@ export default function SwiperSlider(props: ISwiperSliderProps) {
             // </SwiperSlide>
             <SwiperSlide key={item}>
               <div>
-              <div className="title" data-swiper-parallax="-300">
-                Slide 1
-              </div>
               <img
                 src={item}
                 alt=""

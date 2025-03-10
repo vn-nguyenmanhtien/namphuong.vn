@@ -39,9 +39,10 @@ const FooterAbout = () => {
   return (
     <div>
       <div className="mb-4">
-        <Link href="#">
+        {/* <Link href="#">
           <Image src="/img/white-logo.png" alt="Logo" width={180} height={70} />
-        </Link>
+        </Link> */}
+        {/* <h1>Nam Phương</h1> */}
       </div>
       <p>
         Số 1A Tân Mỹ, Mỹ Đình, Nam Từ liêm, Hà Nội <br />
